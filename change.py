@@ -7,6 +7,6 @@ def change():
 	cents = int(cents*100)
 	print(f'Ingresar gasto:\n{expense}')
 	print(f'Dinero recibido\n{money}')
-	print(f'\nVuelto \n')
+	print(f'\nVuelto\n')
 	print(f'Pesos:\n{pesos}')
 	print(f'Centavos:\n{cents}')
